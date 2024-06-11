@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font: 14px sans-serif;
+    font-family: 'Montserrat Light';
+}
+
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 20%;
+    border-radius: 50%;
+}
+
+h2 {
+    text-align: center;
+}
+
+#forgot-password {
+    float: right;
+}
+
+footer p {
+    text-align: center;
+}

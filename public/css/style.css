@@ -1,0 +1,13 @@
+.contain {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.sous-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 40%;
+    margin: 20px;
+}
